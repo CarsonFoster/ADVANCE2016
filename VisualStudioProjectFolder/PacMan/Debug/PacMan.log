@@ -1,0 +1,110 @@
+﻿Build started 7/29/2016 12:21:24 PM.
+     1>Project "C:\Users\advance\Desktop\projects\PacMan\PacMan\PacMan.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\PacMan.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\PacMan.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PacMan.cpp point.cpp
+         point.cpp
+         PacMan.cpp
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(88): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(258): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(260): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(281): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(283): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(323): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(323): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(323): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(323): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(331): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(331): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(331): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(331): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(486): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(486): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(486): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(486): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(494): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(494): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(494): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(494): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(502): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(502): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(502): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(502): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(510): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(510): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(510): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(510): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(645): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(645): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(645): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(646): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(647): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(669): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(669): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(669): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(669): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(677): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(677): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(677): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(677): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(800): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(800): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(800): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(800): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(805): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(805): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(805): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(805): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(810): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(810): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(810): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(810): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(815): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(815): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(815): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(815): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(933): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(934): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(1136): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\advance\desktop\projects\pacman\pacman\pacman.cpp(1159): warning C4101: 'key' : unreferenced local variable
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\advance\Desktop\projects\PacMan\Debug\PacMan.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PacMan.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\advance\Desktop\projects\PacMan\Debug\PacMan.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\advance\Desktop\projects\PacMan\Debug\PacMan.lib" /MACHINE:X86 Debug\PacMan.exe.embed.manifest.res
+         Debug\line.obj
+         Debug\PacMan.obj
+         Debug\point.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PacMan.exe.embed.manifest" /manifest Debug\PacMan.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         PacMan.vcxproj -> C:\Users\advance\Desktop\projects\PacMan\Debug\PacMan.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\PacMan.unsuccessfulbuild".
+         Touching "Debug\PacMan.lastbuildstate".
+     1>Done Building Project "C:\Users\advance\Desktop\projects\PacMan\PacMan\PacMan.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.38
